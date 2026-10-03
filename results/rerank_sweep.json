@@ -1,0 +1,23 @@
+{
+ "n_questions": 10,
+ "rows": [
+  {
+   "candidates": 10,
+   "recall@1": 0.8,
+   "recall@5": 0.9,
+   "mrr": 0.8667,
+   "latency_ms_avg": 1525.8,
+   "rerank_ms_avg": 1126.9,
+   "ms_per_candidate": 112.69
+  },
+  {
+   "candidates": 20,
+   "recall@1": 0.8,
+   "recall@5": 0.9,
+   "mrr": 0.85,
+   "latency_ms_avg": 2162.7,
+   "rerank_ms_avg": 2121.9,
+   "ms_per_candidate": 106.1
+  }
+ ]
+}
